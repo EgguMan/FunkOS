@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icons.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="defenderMix0000" x="6" y="6" width="1280" height="720"/>
+	<SubTexture name="foreignEntity0000" x="1292" y="6" width="1280" height="720"/>
+	<SubTexture name="virusMix0000" x="2578" y="6" width="1280" height="720"/>
+</TextureAtlas>

@@ -1,0 +1,83 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				385,
+				629
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				571,
+				771
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				313,
+				510
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				377,
+				1018
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				32,
+				549
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"BGCharVars": {
+		"cheerLimit": 10,
+		"lookAtSinger": false,
+		"cheerOnChain": false
+	},
+	"no_antialiasing": false,
+	"image": "characters/super virus",
+	"position": [
+		90,
+		170
+	],
+	"healthicon": "super-virus",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		0,
+		20
+	],
+	"camera_position": [
+		-150,
+		-740
+	],
+	"sing_duration": 6.1,
+	"scale": 1.39432393348
+}

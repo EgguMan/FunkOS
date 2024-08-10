@@ -1,0 +1,105 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				9
+			],
+			"anim": "cheer",
+			"fps": 24,
+			"name": "cheer",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "plainLook_mustHit",
+			"fps": 24,
+			"name": "plainLook_TOMH",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-20
+			],
+			"anim": "plainLook_notHit",
+			"fps": 24,
+			"name": "plainLook_TONH",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-110
+			],
+			"anim": "idle_mustHit",
+			"fps": 24,
+			"name": "idleBF i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-110
+			],
+			"anim": "idle_notHit",
+			"fps": 24,
+			"name": "idleDAD i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-111
+			],
+			"anim": "lookTo_mustHit",
+			"fps": 24,
+			"name": "idleBFTODAD",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-111
+			],
+			"anim": "lookTo_notHit",
+			"fps": 24,
+			"name": "idleDADTOBF",
+			"indices": []
+		}
+	],
+	"BGCharVars": {
+		"lookAtSinger": true,
+		"cheerLimit": 11,
+		"cheerOnChain": false
+	},
+	"no_antialiasing": false,
+	"image": "characters/picoBG",
+	"position": [
+		770,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-150,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}
